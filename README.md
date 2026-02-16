@@ -1,6 +1,6 @@
 # Nokia Snake Game
 
-<img src="public/img/Screenshot.png" alt="oops" width="640" height="auto" style="border-radius:12px;display:inline-block;margin:30px;">
+<img src="public/img/Screenshot.png" alt="oops" width="90%" hspace='50'>
 
 Developed a classic Nokia Snake game as a web-based application, recreating the original gameplay experience with smooth controls, score tracking, and responsive design using modern web technologies
 
